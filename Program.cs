@@ -1,4 +1,6 @@
-﻿// System.Console.Write("Введите число");
+﻿//Первое задание на делимость числа на 7 и 23 одновременно
+
+// System.Console.Write("Введите число");
 //  int number1 = Convert.ToInt32(Console.ReadLine());
 
 //  if(number1 % 7 ==0  && number1 % 23 == 0)
@@ -10,6 +12,8 @@
 //    System.Console.WriteLine("НЕТ");
 //  }
 
+
+//Второе задание на определение координатной четверти по координатам числа
 
 // System.Console.Write("Введите координату x числа");
 //  int x = Convert.ToInt32(Console.ReadLine());
@@ -39,6 +43,8 @@
 //    }
 //  }
 
+//Третье задание на определение наибольшей цифры в числе из отрезка
+
 // System.Console.Write("Введите число из отрезка [10, 99]");
 //  int numberFromSegment = Convert.ToInt32(Console.ReadLine());
 
@@ -53,6 +59,8 @@
 //     }
 //    }
  
+
+ //Четвёртое задание на последовательность цифр натурального числа
  System.Console.Write("Введите число   ");
  int number = Convert.ToInt32(Console.ReadLine());
  int numberOld = number;//наше первоначальное число, цифры которого мы хотим записать
