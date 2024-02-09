@@ -71,9 +71,9 @@
  {
   figure = number % 10;
   System.Console.Write(figure + "," );
-  number = number / 10; 
+   number = number / 10; 
  }
-
+ System.Console.Write("                \n");
 // System.Console.Write("Слева направо" + "  ");    
 // int degree = 0;
 // while(number > 10)
